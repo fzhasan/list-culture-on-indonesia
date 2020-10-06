@@ -19,4 +19,4 @@ git checkout -b usernamekalian (example : git checkout -b rofi)
 git push -u origin usernamekalian (examle : git push -u origin rofi)
 ```
 
-## Selamat kalian telah menyelesaikan quest ke-dua :clap: :clap:
+## Selamat kalian telah menyelesaikan quest ke-tiga :clap: :clap:
