@@ -1,5 +1,19 @@
 [
     {
+        "name" : "Tari Pakkarena",
+        "origin" : "Bugis Makassar",
+        "description" : "Tari Pakarena adalah tarian tradisional dari Sulawesi Selatan yang diiringi oleh 2 kepala drum dan sepasang instrument alat semacam suling",
+        "picture" : "https://upload.wikimedia.org/wikipedia/id/d/db/Tari_Pakar%C3%A9na.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=iSvQCo2EwzU"
+    },
+    {
+        "name" : "Tari Paduppa",
+        "origin" : "Bugis",
+        "description" : "Tarian ini bermakna penyambutan tamu yang datang berkunjung. Hal ini sebagai bentuk penghargaan dan rasa terima kasih kepada para tamu atas kedatangannya",
+        "picture" : "https://i0.wp.com/idewedding.com/wp-content/uploads/2020/08/Tarian-Konsep-Tradisional-Pernikahan-Ini-Sarat-Makna-dan-Doa.jpg?resize=1080%2C720&ssl=1",
+        "youtube-link": "https://www.youtube.com/watch?v=hYKhfNulcho"
+    },
+    {
         "name" : "Tari piring",
         "origin" : "Minangkabau",
         "description" : "Tari piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring.",
