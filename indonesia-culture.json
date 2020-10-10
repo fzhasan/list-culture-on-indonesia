@@ -1,9 +1,16 @@
 [
     {
-        "name" : "",
-        "origin" : "",
-        "description" : "",
-        "picture" : "",
-        "youtube-link": ""
+        "name" : "Tari piring",
+        "origin" : "Minangkabau",
+        "description" : "Tari piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring.",
+        "picture" : "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tari_Piring_di_Pesisir_Selatan.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=1O_OYwnV6iw"
     },
+    {
+        "name" : "Reog",
+        "origin" : "Ponorogo",
+        "description" : "Reog adalah tarian tradisional dalam arena terbuka yang berfungsi sebagai hiburan rakyat, mengandung unsur magis, penari utama adalah orang berkepala singa dengan hiasan bulu merak, ditambah beberapa penari bertopeng dan berkuda lumping.",
+        "picture" : "https://cdn1-production-images-kly.akamaized.net/vcEUcYFbS0qkDxeauDy7KIIKqAM=/640x480/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1331586/original/042314600_1472472138-Reog_Ponorogo_di_Filiphina.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=u8mr-KMGtvE"
+    }
 ]
