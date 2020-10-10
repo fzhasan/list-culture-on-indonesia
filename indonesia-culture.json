@@ -1,9 +1,16 @@
 [
     {
-        "name" : "",
-        "origin" : "",
-        "description" : "",
-        "picture" : "",
-        "youtube-link": ""
+        "name" : "Tari Serimpi",
+        "origin" : "Jawa Tengah",
+        "description" : "Serimpi atau Srimpi adalah bentuk repertoar (penyajian) tari Jawa klasik dari tradisi kraton Kesultanan Mataram dan dilanjutkan pelestarian serta pengembangan sampai sekarang oleh empat istana pewarisnya di Jawa Tengah (Surakarta) dan Yogyakarta.",
+        "picture" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/2011-06-05_TTF_46.jpg/250px-2011-06-05_TTF_46.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=oeQiSEMITAo"
     },
+    {
+        "name" : "Tari Topeng Ireng",
+        "origin" : "Jawa Tengah",
+        "description" : "Topeng Ireng adalah salah satu kesenian tradisional yang berkembang di daerah Kabupaten Magelang, Jawa Tengah. Topeng Ireng yang juga dikenal sebagai kesenian Dayakan ini adalah bentuk tarian rakyat kreasi baru yang merupakan hasil metamorfosis dari kesenian Kubro Siswo.",
+        "picture" : "https://upload.wikimedia.org/wikipedia/id/thumb/7/72/Topeng_Ireng.jpg/300px-Topeng_Ireng.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=Fchba2w-2yE"
+    }
 ]
