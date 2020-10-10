@@ -1,9 +1,16 @@
 [
     {
-        "name" : "",
-        "origin" : "",
-        "description" : "",
-        "picture" : "",
-        "youtube-link": ""
+        "name" : "Tari Tortor",
+        "origin" : "Sumatera Utara",
+        "description" : "Tortor Batak Toba adalah jenis tarian purba dari Batak Toba yang berasal dari Sumatra Utara yang meliputi daerah Tapanuli Utara, Humbang Hasundutan, Toba Samosir dan Samosir. Tortor merupakan tarian seremonial yang disajikan dengan musik gondang. Secara fisik, tortor merupakan tarian, namun makna yang lebih dari hanya sekadar gerakan-gerakannya menunjukkan tortor adalah sebuah media komunikasi, di mana melalui gerakan yang disajikan terjadi interaksi antara partisipan upacara.",
+        "picture" : "https://upload.wikimedia.org/wikipedia/commons/a/a9/Tor-Tor_Pose.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=CUSNI2LLtEo"
+    },
+    {
+        "name" : "Kain Ulos",
+        "origin" : "Sumatera Utara",
+        "description" : "Ulos atau sering juga disebut kain ulos adalah salah satu busana khas Indonesia. Ulos secara turun temurun dikembangkan oleh masyarakat Batak, Sumatra Utara. Dari bahasa asalnya, ulos berarti kain. Cara membuat ulos serupa dengan cara membuat songket khas Palembang, yaitu menggunakan alat tenun bukan mesin. Warna dominan pada ulos adalah merah, hitam, dan putih yang dihiasi oleh ragam tenunan dari benang emas atau perak.",
+        "picture" : "https://upload.wikimedia.org/wikipedia/id/f/f9/Jenis_ulos.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=ZXD61iGUiS8"
     },
 ]
