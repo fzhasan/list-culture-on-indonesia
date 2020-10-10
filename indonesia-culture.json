@@ -1,52 +1,94 @@
 [
     {
-        "name" : "Tari Serimpi",
-        "origin" : "Jawa Tengah",
-        "description" : "Serimpi atau Srimpi adalah bentuk repertoar (penyajian) tari Jawa klasik dari tradisi kraton Kesultanan Mataram dan dilanjutkan pelestarian serta pengembangan sampai sekarang oleh empat istana pewarisnya di Jawa Tengah (Surakarta) dan Yogyakarta.",
-        "picture" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/2011-06-05_TTF_46.jpg/250px-2011-06-05_TTF_46.jpg",
+        "name": "tari saman",
+        "origin": "aceh",
+        "description": "tarian ini ditampilkan untuk merayakan kelahiran nabi muhammad SAW.",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/e/e2/Tari_rampai.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=TdqsJTcuFhY"
+    },
+    {
+        "name": "tari piring",
+        "origin": "minangkabau",
+        "description": "tari piring adalah tarian tradisional minangkabau yang menampilkan atraksi menggunakan piring",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Tari_Piring_di_Pesisir_Selatan.jpg/390px-Tari_Piring_di_Pesisir_Selatan.jpg",
+        "youtube-link": "https://youtu.be/1O_OYwnV6iw"
+    },
+    {
+        "name": "tari kecak",
+        "origin": "bali",
+        "description": "pertunjukan dramatari seni khas bali yang lebih utama menceritakan mengenai rmayana dan akan dimainkan terumatama oleh laki-laki",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kecak_Dance_1.jpg/375px-Kecak_Dance_1.jpg",
+        "youtube-link": "https://youtu.be/nr8lb0nj1XY"
+    },
+    {
+        "name": "tari bedana",
+        "origin": "lampung",
+        "description": "tari bedana merupakan salah satu tarian tarian tadisional dari daerah lampung, tari ini biasa dibawakan oleh pemuda pemudi lampung dalam acara tertentu sebagai ungkapan rasa gembira",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ15CkXehdixZazl6w2LPDsfn92EPxJV7yRIQ&usqp=CAU",
+        "youtube-link": "https://www.youtube.com/watch?v=-M2a8EqsYB0"
+    },
+    {
+        "name": "tari gantar",
+        "origin": "kallimantan",
+        "description": "tarian ini merupakan sebuah tarian tradisional asal kalimantan, gerakannya seperti orang yang sedang menanam padi. dalam tarian ini para penari menggunakan tongkat yang mempunyai arti sebagai kayu penumbuk yang disertai properti pendukung lainya seperti bamboo dan biji bijian yang memberikan gambaran seperti benih padi dan wadahnya",
+        "picture": "http://www.ragamseni.com/wp-content/uploads/2016/02/tari-gantar-300x225.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=j-qM_6Ak8Us"
+    },
+    {
+        "name": "tari kancet ledo",
+        "orgin": "kalimantan timur",
+        "description": "tari kancet biasa disebut dengan tari gong, merupakan tarian adat yang berasal dari kalimatan timur, tarian ini mengekspresikan mengenai lebutnya seorang wanita yang diperlihatkan melalui tariannya diatas gong dengan lemag lembut dan disertai dengan keseimbangan",
+        "picture": "http://www.ragamseni.com/wp-content/uploads/2016/02/tari-gong.jpg",
+        "yotube-link": "https://www.youtube.com/watch?v=X2AHKlNbZQk"
+    },
+    {
+        "name": "Tari Serimpi",
+        "origin": "Jawa Tengah",
+        "description": "Serimpi atau Srimpi adalah bentuk repertoar (penyajian) tari Jawa klasik dari tradisi kraton Kesultanan Mataram dan dilanjutkan pelestarian serta pengembangan sampai sekarang oleh empat istana pewarisnya di Jawa Tengah (Surakarta) dan Yogyakarta.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/2011-06-05_TTF_46.jpg/250px-2011-06-05_TTF_46.jpg",
         "youtube-link": "https://www.youtube.com/watch?v=oeQiSEMITAo"
     },
     {
-        "name" : "Tari Topeng Ireng",
-        "origin" : "Jawa Tengah",
-        "description" : "Topeng Ireng adalah salah satu kesenian tradisional yang berkembang di daerah Kabupaten Magelang, Jawa Tengah. Topeng Ireng yang juga dikenal sebagai kesenian Dayakan ini adalah bentuk tarian rakyat kreasi baru yang merupakan hasil metamorfosis dari kesenian Kubro Siswo.",
-        "picture" : "https://upload.wikimedia.org/wikipedia/id/thumb/7/72/Topeng_Ireng.jpg/300px-Topeng_Ireng.jpg",
+        "name": "Tari Topeng Ireng",
+        "origin": "Jawa Tengah",
+        "description": "Topeng Ireng adalah salah satu kesenian tradisional yang berkembang di daerah Kabupaten Magelang, Jawa Tengah. Topeng Ireng yang juga dikenal sebagai kesenian Dayakan ini adalah bentuk tarian rakyat kreasi baru yang merupakan hasil metamorfosis dari kesenian Kubro Siswo.",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/thumb/7/72/Topeng_Ireng.jpg/300px-Topeng_Ireng.jpg",
         "youtube-link": "https://www.youtube.com/watch?v=Fchba2w-2yE"
     },
     {
-        "name" : "Tari Saman",
-        "origin" : "Aceh Tenggara",
-        "description" : "Tari Saman adalah sebuah tarian Suku Gayo yang biasa ditampilkan untuk merayakan peristiwa-peristiwa penting dalam adat. Syair dalam tarian saman mempergunakan Bahasa Gayo. Selain itu biasanya tarian ini juga ditampilkan untuk merayakan kelahiran Nabi Muhammad SAW. Dalam beberapa literatur menyebutkan tari saman di Aceh didirikan dan dikembangkan oleh Syekh Saman, seorang ulama yang berasal dari Gayo di Aceh Tenggara. Tari saman ditetapkan UNESCO sebagai Daftar Representatif Budaya Takbenda Warisan Manusia dalam Sidang ke-6 Komite Antar-Pemerintah untuk Pelindungan Warisan Budaya Tak benda UNESCO di Bali, 24 November 2011.",
-        "picture" : "https://upload.wikimedia.org/wikipedia/commons/3/3d/Saman_dance.jpg",
+        "name": "Tari Saman",
+        "origin": "Aceh Tenggara",
+        "description": "Tari Saman adalah sebuah tarian Suku Gayo yang biasa ditampilkan untuk merayakan peristiwa-peristiwa penting dalam adat. Syair dalam tarian saman mempergunakan Bahasa Gayo. Selain itu biasanya tarian ini juga ditampilkan untuk merayakan kelahiran Nabi Muhammad SAW. Dalam beberapa literatur menyebutkan tari saman di Aceh didirikan dan dikembangkan oleh Syekh Saman, seorang ulama yang berasal dari Gayo di Aceh Tenggara. Tari saman ditetapkan UNESCO sebagai Daftar Representatif Budaya Takbenda Warisan Manusia dalam Sidang ke-6 Komite Antar-Pemerintah untuk Pelindungan Warisan Budaya Tak benda UNESCO di Bali, 24 November 2011.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Saman_dance.jpg",
         "youtube-link": "https://www.youtube.com/watch?v=Ovrn3yBpSt4"
     },
     {
-        "name" : "Kuda Lumping",
-        "origin" : "Ponorogo, Jawa Timur",
-        "description" : "Kuda lumping juga disebut jaran kepang atau jathilan adalah tarian tradisional Jawa yang menampilkan sekelompok prajurit tengah menunggang kuda.[1] Tarian ini berasal dari Ponorogo. Tarian ini menggunakan kuda yang terbuat dari bambu atau bahan lainnya yang di anyam dan dipotong menyerupai bentuk kuda, dengan dihiasi rambut tiruan dari tali plastik atau sejenisnya yang di gelung atau di kepang. Anyaman kuda ini dihias dengan cat dan kain beraneka warna. Tarian kuda lumping biasanya hanya menampilkan adegan prajurit berkuda, akan tetapi beberapa penampilan kuda lumping juga menyuguhkan atraksi kesurupan, kekebalan, dan kekuatan magis, seperti atraksi memakan beling dan kekebalan tubuh terhadap deraan pecut. Jaran Kepang merupakan bagian dari pagelaran tari reog. Meskipun tarian ini berasal dari Jawa, Indonesia, tarian ini juga diwariskan oleh kaum Jawa yang menetap di Sumatra Utara dan di beberapa daerah di luar Indonesia seperti di Malaysia, Suriname, Hong Kong, Jepang dan Amerika. ",
-        "picture" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Kuda_Lumping_1.jpg/440px-Kuda_Lumping_1.jpg",
+        "name": "Kuda Lumping",
+        "origin": "Ponorogo, Jawa Timur",
+        "description": "Kuda lumping juga disebut jaran kepang atau jathilan adalah tarian tradisional Jawa yang menampilkan sekelompok prajurit tengah menunggang kuda.[1] Tarian ini berasal dari Ponorogo. Tarian ini menggunakan kuda yang terbuat dari bambu atau bahan lainnya yang di anyam dan dipotong menyerupai bentuk kuda, dengan dihiasi rambut tiruan dari tali plastik atau sejenisnya yang di gelung atau di kepang. Anyaman kuda ini dihias dengan cat dan kain beraneka warna. Tarian kuda lumping biasanya hanya menampilkan adegan prajurit berkuda, akan tetapi beberapa penampilan kuda lumping juga menyuguhkan atraksi kesurupan, kekebalan, dan kekuatan magis, seperti atraksi memakan beling dan kekebalan tubuh terhadap deraan pecut. Jaran Kepang merupakan bagian dari pagelaran tari reog. Meskipun tarian ini berasal dari Jawa, Indonesia, tarian ini juga diwariskan oleh kaum Jawa yang menetap di Sumatra Utara dan di beberapa daerah di luar Indonesia seperti di Malaysia, Suriname, Hong Kong, Jepang dan Amerika. ",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Kuda_Lumping_1.jpg/440px-Kuda_Lumping_1.jpg",
         "youtube-link": "https://www.youtube.com/watch?v=XWZI20Q1xrg"
     },
     {
-        "name" : "Suku Dayak",
-        "origin" : "https://github.com/anugerah-fitrianto/list-culture-on-indonesia",
-        "description" : "Rumah Panjang (rumah Radank) adalah salah satu rumah adat dari daerah Kalimantan Barat. Rumah Panjang adalah ciri khas dari masyarakat Dayak yang tinggal di daerah Kalimantan Barat. Hal ini dikarenakan rumah panjang adalah gambaran sosial kehidupan masyarakat Dayak di Kalimantan Barat",
-        "picture" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnyero.id%2Frumah-adat-kalimantan-barat%2F&psig=AOvVaw0iLGluxrZ5nb6QAe1NRk1h&ust=1602400172203000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCBgfq7qewCFQAAAAAdAAAAABAR",
+        "name": "Suku Dayak",
+        "origin": "https://github.com/anugerah-fitrianto/list-culture-on-indonesia",
+        "description": "Rumah Panjang (rumah Radank) adalah salah satu rumah adat dari daerah Kalimantan Barat. Rumah Panjang adalah ciri khas dari masyarakat Dayak yang tinggal di daerah Kalimantan Barat. Hal ini dikarenakan rumah panjang adalah gambaran sosial kehidupan masyarakat Dayak di Kalimantan Barat",
+        "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnyero.id%2Frumah-adat-kalimantan-barat%2F&psig=AOvVaw0iLGluxrZ5nb6QAe1NRk1h&ust=1602400172203000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCBgfq7qewCFQAAAAAdAAAAABAR",
         "youtube-link": "https://www.youtube.com/watch?v=nrUoYguNqPI"
     },
     {
-        "name" : "Jaipongan",
-        "origin" : "Indonesia",
-        "description" : "Jaipongan adalah sebuah jenis tari pergaulan tradisional masyarakat Sunda, karawang, Jawa Barat, yang sangat populer di Indonesia.",
-        "picture" : "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/fixindonesia/2020/03/Untitled-111.png",
+        "name": "Jaipongan",
+        "origin": "Indonesia",
+        "description": "Jaipongan adalah sebuah jenis tari pergaulan tradisional masyarakat Sunda, karawang, Jawa Barat, yang sangat populer di Indonesia.",
+        "picture": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/fixindonesia/2020/03/Untitled-111.png",
         "youtube-link": "https://www.youtube.com/watch?v=rsmafqn5ZdQ"
     },
     {
-        "name" : "Tari Saman",
-        "origin" : "Aceh, Indonesia",
-        "description" : "sebuah tarian Suku Gayo yang biasa ditampilkan untuk merayakan peristiwa-peristiwa penting dalam adat. Syair dalam tarian saman mempergunakan Bahasa Gayo. Selain itu biasanya tarian ini juga ditampilkan untuk merayakan kelahiran Nabi Muhammad SAW.",
-        "picture" : "https://reportersatu.com/wp-content/uploads/2020/08/Menengok-Tari-Saman-tarain-Khas-Sumatera-Utara-1000x600.jpg",
-        "youtube-link" : "https://www.youtube.com/watch?v=5m0nYPkAW_I",
+        "name": "Tari Saman",
+        "origin": "Aceh, Indonesia",
+        "description": "sebuah tarian Suku Gayo yang biasa ditampilkan untuk merayakan peristiwa-peristiwa penting dalam adat. Syair dalam tarian saman mempergunakan Bahasa Gayo. Selain itu biasanya tarian ini juga ditampilkan untuk merayakan kelahiran Nabi Muhammad SAW.",
+        "picture": "https://reportersatu.com/wp-content/uploads/2020/08/Menengok-Tari-Saman-tarain-Khas-Sumatera-Utara-1000x600.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=5m0nYPkAW_I",
     },
     {
         "name": "Tari Tortor",
