@@ -1,9 +1,18 @@
 [
     {
-        "name" : "",
-        "origin" : "",
-        "description" : "",
-        "picture" : "",
-        "youtube-link": ""
+        "name" : "Tari Kecak",
+        "origin" : "Bali",
+        "description" : "Kecak adalah pertunjukan dramatari seni khas Bali yang lebih utama menceritakan mengenai Ramayana dan dimainkan terutama oleh laki-laki.",
+        "picture" : "https://lh3.googleusercontent.com/proxy/xsriUfyWNdHRhQ4H8xOkxZWE9YRfAYihBs2bJExZemIsg4RSAsjoacaFOQzpzxfvtlVNM71JrJwPEu59PfOeG8XeUeuo1EXDANjvyfBQyzizHYw4aIh65fzKt1kQLrIkl6JONSsZ_OYjqH6H_5An8rLeBug5TAUy",
+        "youtube-link": "https://www.youtube.com/watch?v=Kv-N1uFNIzw"
     },
+
+    {
+        "name" : "Ondel-Ondel",
+        "origin" : "DKI Jakarta",
+        "description" : "Ondel-ondel adalah bentuk pertunjukan rakyat Betawi yang sering ditampilkan dalam pesta-pesta rakyat.",
+        "picture" : "https://assets-a1.kompasiana.com/items/album/2016/11/23/mg-6514-5834d3ca907e61540786da2e.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=yb_005XqxoM"
+    }
 ]
+
