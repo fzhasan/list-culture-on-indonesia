@@ -1,5 +1,19 @@
 [
     {
+        "name" : "Jaipongan",
+        "origin" : "Indonesia",
+        "description" : "Jaipongan adalah sebuah jenis tari pergaulan tradisional masyarakat Sunda, karawang, Jawa Barat, yang sangat populer di Indonesia.",
+        "picture" : "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/fixindonesia/2020/03/Untitled-111.png",
+        "youtube-link": "https://www.youtube.com/watch?v=rsmafqn5ZdQ"
+    },
+    {
+        "name" : "Tari Saman",
+        "origin" : "Aceh, Indonesia",
+        "description" : "sebuah tarian Suku Gayo yang biasa ditampilkan untuk merayakan peristiwa-peristiwa penting dalam adat. Syair dalam tarian saman mempergunakan Bahasa Gayo. Selain itu biasanya tarian ini juga ditampilkan untuk merayakan kelahiran Nabi Muhammad SAW.",
+        "picture" : "https://reportersatu.com/wp-content/uploads/2020/08/Menengok-Tari-Saman-tarain-Khas-Sumatera-Utara-1000x600.jpg",
+        "youtube-link" : "https://www.youtube.com/watch?v=5m0nYPkAW_I",
+    },
+    {
         "name": "Tari Tortor",
         "origin": "Sumatera Utara",
         "description": "Tortor Batak Toba adalah jenis tarian purba dari Batak Toba yang berasal dari Sumatra Utara yang meliputi daerah Tapanuli Utara, Humbang Hasundutan, Toba Samosir dan Samosir. Tortor merupakan tarian seremonial yang disajikan dengan musik gondang. Secara fisik, tortor merupakan tarian, namun makna yang lebih dari hanya sekadar gerakan-gerakannya menunjukkan tortor adalah sebuah media komunikasi, di mana melalui gerakan yang disajikan terjadi interaksi antara partisipan upacara.",
