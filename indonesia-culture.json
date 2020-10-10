@@ -1,9 +1,44 @@
 [
     {
-        "name" : "",
-        "origin" : "",
-        "description" : "",
-        "picture" : "",
-        "youtube-link": ""
+        "name" : "tari saman",
+        "origin" : "aceh",
+        "description" : "tarian ini ditampilkan untuk merayakan kelahiran nabi muhammad SAW.",
+        "picture" : "https://upload.wikimedia.org/wikipedia/id/e/e2/Tari_rampai.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=TdqsJTcuFhY"
     },
-]
+    {
+        "name" : "tari piring",
+        "origin" : "minangkabau",
+        "description" : "tari piring adalah tarian tradisional minangkabau yang menampilkan atraksi menggunakan piring",
+        "picture" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Tari_Piring_di_Pesisir_Selatan.jpg/390px-Tari_Piring_di_Pesisir_Selatan.jpg",
+        "youtube-link" : "https://youtu.be/1O_OYwnV6iw"
+    },
+    {
+        "name" : "tari kecak",
+        "origin" : "bali",
+        "description" : "pertunjukan dramatari seni khas bali yang lebih utama menceritakan mengenai rmayana dan akan dimainkan terumatama oleh laki-laki",
+        "picture" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kecak_Dance_1.jpg/375px-Kecak_Dance_1.jpg",
+        "youtube-link" : "https://youtu.be/nr8lb0nj1XY"
+    },
+    {
+        "name" : "tari bedana",
+        "origin" : "lampung",
+        "description" : "tari bedana merupakan salah satu tarian tarian tadisional dari daerah lampung, tari ini biasa dibawakan oleh pemuda pemudi lampung dalam acara tertentu sebagai ungkapan rasa gembira",
+        "picture" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ15CkXehdixZazl6w2LPDsfn92EPxJV7yRIQ&usqp=CAU",
+        "youtube-link" : "https://www.youtube.com/watch?v=-M2a8EqsYB0"
+    },
+    {
+        "name" : "tari gantar",
+        "origin" : "kallimantan",
+        "description" : "tarian ini merupakan sebuah tarian tradisional asal kalimantan, gerakannya seperti orang yang sedang menanam padi. dalam tarian ini para penari menggunakan tongkat yang mempunyai arti sebagai kayu penumbuk yang disertai properti pendukung lainya seperti bamboo dan biji bijian yang memberikan gambaran seperti benih padi dan wadahnya",
+        "picture" : "http://www.ragamseni.com/wp-content/uploads/2016/02/tari-gantar-300x225.jpg",
+        "youtube-link" : "https://www.youtube.com/watch?v=j-qM_6Ak8Us"
+    },
+    {
+        "name" : "tari kancet ledo",
+        "orgin" : "kalimantan timur",
+        "description" : "tari kancet biasa disebut dengan tari gong, merupakan tarian adat yang berasal dari kalimatan timur, tarian ini mengekspresikan mengenai lebutnya seorang wanita yang diperlihatkan melalui tariannya diatas gong dengan lemag lembut dan disertai dengan keseimbangan",
+        "picture" : "http://www.ragamseni.com/wp-content/uploads/2016/02/tari-gong.jpg",
+        "yotube-link" : "https://www.youtube.com/watch?v=X2AHKlNbZQk"
+    }
+]   
