@@ -1,9 +1,16 @@
 [
     {
-        "name" : "",
-        "origin" : "",
-        "description" : "",
-        "picture" : "",
-        "youtube-link": ""
+        "name" : "Tari Saman",
+        "origin" : "Aceh Tenggara",
+        "description" : "Tari Saman adalah sebuah tarian Suku Gayo yang biasa ditampilkan untuk merayakan peristiwa-peristiwa penting dalam adat. Syair dalam tarian saman mempergunakan Bahasa Gayo. Selain itu biasanya tarian ini juga ditampilkan untuk merayakan kelahiran Nabi Muhammad SAW. Dalam beberapa literatur menyebutkan tari saman di Aceh didirikan dan dikembangkan oleh Syekh Saman, seorang ulama yang berasal dari Gayo di Aceh Tenggara. Tari saman ditetapkan UNESCO sebagai Daftar Representatif Budaya Takbenda Warisan Manusia dalam Sidang ke-6 Komite Antar-Pemerintah untuk Pelindungan Warisan Budaya Tak benda UNESCO di Bali, 24 November 2011.",
+        "picture" : "https://upload.wikimedia.org/wikipedia/commons/3/3d/Saman_dance.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=Ovrn3yBpSt4"
     },
+    {
+        "name" : "Kuda Lumping",
+        "origin" : "Ponorogo, Jawa Timur",
+        "description" : "Kuda lumping juga disebut jaran kepang atau jathilan adalah tarian tradisional Jawa yang menampilkan sekelompok prajurit tengah menunggang kuda.[1] Tarian ini berasal dari Ponorogo. Tarian ini menggunakan kuda yang terbuat dari bambu atau bahan lainnya yang di anyam dan dipotong menyerupai bentuk kuda, dengan dihiasi rambut tiruan dari tali plastik atau sejenisnya yang di gelung atau di kepang. Anyaman kuda ini dihias dengan cat dan kain beraneka warna. Tarian kuda lumping biasanya hanya menampilkan adegan prajurit berkuda, akan tetapi beberapa penampilan kuda lumping juga menyuguhkan atraksi kesurupan, kekebalan, dan kekuatan magis, seperti atraksi memakan beling dan kekebalan tubuh terhadap deraan pecut. Jaran Kepang merupakan bagian dari pagelaran tari reog. Meskipun tarian ini berasal dari Jawa, Indonesia, tarian ini juga diwariskan oleh kaum Jawa yang menetap di Sumatra Utara dan di beberapa daerah di luar Indonesia seperti di Malaysia, Suriname, Hong Kong, Jepang dan Amerika. ",
+        "picture" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Kuda_Lumping_1.jpg/440px-Kuda_Lumping_1.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=XWZI20Q1xrg"
+    }
 ]
