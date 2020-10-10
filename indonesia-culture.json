@@ -1,16 +1,44 @@
 [
-  {
-    "name": "rencong",
-    "origin": "Aceh",
-    "description": "Rencong (Aksara Jawoë : رنچوڠ) atau yang dalam Bahasa Aceh yang ditulis dengan huruf latin dibaca 'Rintjong' adalah senjata khas Suku Aceh. ",
-    "picture": "https://cdn-2.tstatic.net/tribunnewswiki/foto/bank/images/rencong.jpg",
-    "youtube-link": "https://www.youtube.com/watch?v=HfWrtgSy5ZI"
-  },
-  {
-    "name": "Abjad Jawi",
-    "origin": "jawa",
-    "description": "Abjad Jawi (Arab: جاوي Jawi) (atau Yawi di daerah Patani dan Jawoë di daerah Aceh Darussalam) adalah abjad Arab yang diubah untuk menuliskan Bahasa Melayu. Abjad ini digunakan sebagai salah satu dari tulisan resmi di Brunei, dan juga di Malaysia, Indonesia, Patani dan Singapura untuk keperluan religius dan pendidikan. ",
-    "picture": "https://i.pinimg.com/originals/c0/b2/74/c0b274353f757465931de1dd374c42e6.jpg",
-    "youtube-link": "https://www.youtube.com/watch?v=wpzbIOKCAPM"
-  }
+    {
+        "name": "rencong",
+        "origin": "Aceh",
+        "description": "Rencong (Aksara Jawoë : رنچوڠ) atau yang dalam Bahasa Aceh yang ditulis dengan huruf latin dibaca 'Rintjong' adalah senjata khas Suku Aceh. ",
+        "picture": "https://cdn-2.tstatic.net/tribunnewswiki/foto/bank/images/rencong.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=HfWrtgSy5ZI"
+    },
+    {
+        "name": "Abjad Jawi",
+        "origin": "jawa",
+        "description": "Abjad Jawi (Arab: جاوي Jawi) (atau Yawi di daerah Patani dan Jawoë di daerah Aceh Darussalam) adalah abjad Arab yang diubah untuk menuliskan Bahasa Melayu. Abjad ini digunakan sebagai salah satu dari tulisan resmi di Brunei, dan juga di Malaysia, Indonesia, Patani dan Singapura untuk keperluan religius dan pendidikan. ",
+        "picture": "https://i.pinimg.com/originals/c0/b2/74/c0b274353f757465931de1dd374c42e6.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=wpzbIOKCAPM"
+    },
+    {
+        "name": "Tari piring",
+        "origin": "Minangkabau",
+        "description": "Tari piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tari_Piring_di_Pesisir_Selatan.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=1O_OYwnV6iw"
+    },
+    {
+        "name": "Reog",
+        "origin": "Ponorogo",
+        "description": "Reog adalah tarian tradisional dalam arena terbuka yang berfungsi sebagai hiburan rakyat, mengandung unsur magis, penari utama adalah orang berkepala singa dengan hiasan bulu merak, ditambah beberapa penari bertopeng dan berkuda lumping.",
+        "picture": "https://cdn1-production-images-kly.akamaized.net/vcEUcYFbS0qkDxeauDy7KIIKqAM=/640x480/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1331586/original/042314600_1472472138-Reog_Ponorogo_di_Filiphina.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=u8mr-KMGtvE"
+    },
+    {
+        "name": "Tari Kecak",
+        "origin": "Bali",
+        "description": "Kecak adalah pertunjukan dramatari seni khas Bali yang lebih utama menceritakan mengenai Ramayana dan dimainkan terutama oleh laki-laki.",
+        "picture": "https://lh3.googleusercontent.com/proxy/xsriUfyWNdHRhQ4H8xOkxZWE9YRfAYihBs2bJExZemIsg4RSAsjoacaFOQzpzxfvtlVNM71JrJwPEu59PfOeG8XeUeuo1EXDANjvyfBQyzizHYw4aIh65fzKt1kQLrIkl6JONSsZ_OYjqH6H_5An8rLeBug5TAUy",
+        "youtube-link": "https://www.youtube.com/watch?v=Kv-N1uFNIzw"
+    },
+    {
+        "name": "Ondel-Ondel",
+        "origin": "DKI Jakarta",
+        "description": "Ondel-ondel adalah bentuk pertunjukan rakyat Betawi yang sering ditampilkan dalam pesta-pesta rakyat.",
+        "picture": "https://assets-a1.kompasiana.com/items/album/2016/11/23/mg-6514-5834d3ca907e61540786da2e.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=yb_005XqxoM"
+    }
 ]
