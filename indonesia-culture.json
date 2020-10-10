@@ -1,61 +1,75 @@
 [
     {
-        "name" : "Tari Pakkarena",
-        "origin" : "Bugis Makassar",
-        "description" : "Tari Pakarena adalah tarian tradisional dari Sulawesi Selatan yang diiringi oleh 2 kepala drum dan sepasang instrument alat semacam suling",
-        "picture" : "https://upload.wikimedia.org/wikipedia/id/d/db/Tari_Pakar%C3%A9na.jpg",
+        "name": "Tari Tortor",
+        "origin": "Sumatera Utara",
+        "description": "Tortor Batak Toba adalah jenis tarian purba dari Batak Toba yang berasal dari Sumatra Utara yang meliputi daerah Tapanuli Utara, Humbang Hasundutan, Toba Samosir dan Samosir. Tortor merupakan tarian seremonial yang disajikan dengan musik gondang. Secara fisik, tortor merupakan tarian, namun makna yang lebih dari hanya sekadar gerakan-gerakannya menunjukkan tortor adalah sebuah media komunikasi, di mana melalui gerakan yang disajikan terjadi interaksi antara partisipan upacara.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Tor-Tor_Pose.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=CUSNI2LLtEo"
+    },
+    {
+        "name": "Kain Ulos",
+        "origin": "Sumatera Utara",
+        "description": "Ulos atau sering juga disebut kain ulos adalah salah satu busana khas Indonesia. Ulos secara turun temurun dikembangkan oleh masyarakat Batak, Sumatra Utara. Dari bahasa asalnya, ulos berarti kain. Cara membuat ulos serupa dengan cara membuat songket khas Palembang, yaitu menggunakan alat tenun bukan mesin. Warna dominan pada ulos adalah merah, hitam, dan putih yang dihiasi oleh ragam tenunan dari benang emas atau perak.",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/f/f9/Jenis_ulos.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=ZXD61iGUiS8"
+    },
+    {
+        "name": "Tari Pakkarena",
+        "origin": "Bugis Makassar",
+        "description": "Tari Pakarena adalah tarian tradisional dari Sulawesi Selatan yang diiringi oleh 2 kepala drum dan sepasang instrument alat semacam suling",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/d/db/Tari_Pakar%C3%A9na.jpg",
         "youtube-link": "https://www.youtube.com/watch?v=iSvQCo2EwzU"
     },
     {
-        "name" : "Tari Paduppa",
-        "origin" : "Bugis",
-        "description" : "Tarian ini bermakna penyambutan tamu yang datang berkunjung. Hal ini sebagai bentuk penghargaan dan rasa terima kasih kepada para tamu atas kedatangannya",
-        "picture" : "https://i0.wp.com/idewedding.com/wp-content/uploads/2020/08/Tarian-Konsep-Tradisional-Pernikahan-Ini-Sarat-Makna-dan-Doa.jpg?resize=1080%2C720&ssl=1",
+        "name": "Tari Paduppa",
+        "origin": "Bugis",
+        "description": "Tarian ini bermakna penyambutan tamu yang datang berkunjung. Hal ini sebagai bentuk penghargaan dan rasa terima kasih kepada para tamu atas kedatangannya",
+        "picture": "https://i0.wp.com/idewedding.com/wp-content/uploads/2020/08/Tarian-Konsep-Tradisional-Pernikahan-Ini-Sarat-Makna-dan-Doa.jpg?resize=1080%2C720&ssl=1",
         "youtube-link": "https://www.youtube.com/watch?v=hYKhfNulcho"
     },
     {
-        "name" : "Tari piring",
-        "origin" : "Minangkabau",
-        "description" : "Tari piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring.",
-        "picture" : "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tari_Piring_di_Pesisir_Selatan.jpg",
+        "name": "Tari piring",
+        "origin": "Minangkabau",
+        "description": "Tari piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tari_Piring_di_Pesisir_Selatan.jpg",
         "youtube-link": "https://www.youtube.com/watch?v=1O_OYwnV6iw"
     },
     {
-        "name" : "Reog",
-        "origin" : "Ponorogo",
-        "description" : "Reog adalah tarian tradisional dalam arena terbuka yang berfungsi sebagai hiburan rakyat, mengandung unsur magis, penari utama adalah orang berkepala singa dengan hiasan bulu merak, ditambah beberapa penari bertopeng dan berkuda lumping.",
-        "picture" : "https://cdn1-production-images-kly.akamaized.net/vcEUcYFbS0qkDxeauDy7KIIKqAM=/640x480/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1331586/original/042314600_1472472138-Reog_Ponorogo_di_Filiphina.jpg",
+        "name": "Reog",
+        "origin": "Ponorogo",
+        "description": "Reog adalah tarian tradisional dalam arena terbuka yang berfungsi sebagai hiburan rakyat, mengandung unsur magis, penari utama adalah orang berkepala singa dengan hiasan bulu merak, ditambah beberapa penari bertopeng dan berkuda lumping.",
+        "picture": "https://cdn1-production-images-kly.akamaized.net/vcEUcYFbS0qkDxeauDy7KIIKqAM=/640x480/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1331586/original/042314600_1472472138-Reog_Ponorogo_di_Filiphina.jpg",
         "youtube-link": "https://www.youtube.com/watch?v=u8mr-KMGtvE"
     },
     {
-        "name" : "Tari Bedhaya Ketawang",
-        "origin" : "Jawa Tengah",
-        "description" : "Bedhaya Ketawang yang mengandung arti di setiap masing-masing kata. ‘bedhaya’ yang artinya penari wanita dan ‘ketawang’ artinya langit. Bila disatukan Bedhaya Ketawang ini mengandung arti penari wanita dari istana langit.",
-        "picture" : "http://www.ragamseni.com/wp-content/uploads/2016/08/Tari-Bedhaya-Ketawang-300x200.jpg",
+        "name": "Tari Bedhaya Ketawang",
+        "origin": "Jawa Tengah",
+        "description": "Bedhaya Ketawang yang mengandung arti di setiap masing-masing kata. ‘bedhaya’ yang artinya penari wanita dan ‘ketawang’ artinya langit. Bila disatukan Bedhaya Ketawang ini mengandung arti penari wanita dari istana langit.",
+        "picture": "http://www.ragamseni.com/wp-content/uploads/2016/08/Tari-Bedhaya-Ketawang-300x200.jpg",
         "youtube-link": "https://youtu.be/zlpoG5urKa4"
     },
     {
-        "name" : "Tari Gambyong",
-        "origin" : "Surakarta",
-        "description" : "arian ini hanya sebuah tarian rakyat dan diadakan ketika memasuki musim panen padi. Sekarang, tarian tersebut diadakan saat acara sakral dan sebagai penghormatan pada tamu.",
-        "picture" : "http://www.ragamseni.com/wp-content/uploads/2016/08/Tari-Gambyong-300x225.jpg",
+        "name": "Tari Gambyong",
+        "origin": "Surakarta",
+        "description": "arian ini hanya sebuah tarian rakyat dan diadakan ketika memasuki musim panen padi. Sekarang, tarian tersebut diadakan saat acara sakral dan sebagai penghormatan pada tamu.",
+        "picture": "http://www.ragamseni.com/wp-content/uploads/2016/08/Tari-Gambyong-300x225.jpg",
         "youtube-link": "https://youtu.be/VbFNTQHUMf8"
     },
     {
-        "name" : "Tari Topeng Sinok",
-        "origin" : "Brebes",
-        "description" : "Tari Topeng Sinok adalah salah satu seni tari khas asal Brebes yang diciptakan oleh Suparyanto dari Dewan Kesenian Kabupaten Brebes yang menggambarkan perempuan yang cantik, luwes dan treingginas",
-        "picture" : "https://3.bp.blogspot.com/-NIy-A7qr3so/TqVvIPIBWtI/AAAAAAAAAB8/1_lpEJTfnKE/s1600/sinok.jpg",
+        "name": "Tari Topeng Sinok",
+        "origin": "Brebes",
+        "description": "Tari Topeng Sinok adalah salah satu seni tari khas asal Brebes yang diciptakan oleh Suparyanto dari Dewan Kesenian Kabupaten Brebes yang menggambarkan perempuan yang cantik, luwes dan treingginas",
+        "picture": "https://3.bp.blogspot.com/-NIy-A7qr3so/TqVvIPIBWtI/AAAAAAAAAB8/1_lpEJTfnKE/s1600/sinok.jpg",
         "youtube-link": "https://www.youtube.com/watch?v=7p6CAxk0NEw"
     },
     {
-        "name" : "Tari Topeng Endel",
-        "origin" : "Tegal",
-        "description" : "Tari Topeng Endel merupakan tarian khas Tegal yang menggambarkan seorang wanita yang lenjeh atau genit.",
-        "picture" : "https://m.ayotegal.com/images-tegal/post/articles/2019/02/28/267/tari_topeng_endel.jpg",
+        "name": "Tari Topeng Endel",
+        "origin": "Tegal",
+        "description": "Tari Topeng Endel merupakan tarian khas Tegal yang menggambarkan seorang wanita yang lenjeh atau genit.",
+        "picture": "https://m.ayotegal.com/images-tegal/post/articles/2019/02/28/267/tari_topeng_endel.jpg",
         "youtube-link": "https://www.youtube.com/watch?v=eLA_WCMxNgM"
     },
-        {
+    {
         "name": "Tari Jaipong",
         "origin": "Jawa Barat",
         "description": "Tari Tradisional daerah Jawa Barat",
