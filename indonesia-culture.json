@@ -1,5 +1,19 @@
 [
     {
+        "name" : "Tari Topeng Sinok",
+        "origin" : "Brebes",
+        "description" : "Tari Topeng Sinok adalah salah satu seni tari khas asal Brebes yang diciptakan oleh Suparyanto dari Dewan Kesenian Kabupaten Brebes yang menggambarkan perempuan yang cantik, luwes dan treingginas",
+        "picture" : "https://3.bp.blogspot.com/-NIy-A7qr3so/TqVvIPIBWtI/AAAAAAAAAB8/1_lpEJTfnKE/s1600/sinok.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=7p6CAxk0NEw"
+    },
+    {
+        "name" : "Tari Topeng Endel",
+        "origin" : "Tegal",
+        "description" : "Tari Topeng Endel merupakan tarian khas Tegal yang menggambarkan seorang wanita yang lenjeh atau genit.",
+        "picture" : "https://m.ayotegal.com/images-tegal/post/articles/2019/02/28/267/tari_topeng_endel.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=eLA_WCMxNgM"
+    },
+        {
         "name": "Tari Jaipong",
         "origin": "Jawa Barat",
         "description": "Tari Tradisional daerah Jawa Barat",
