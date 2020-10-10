@@ -1,9 +1,33 @@
 [
     {
-        "name" : "",
-        "origin" : "",
-        "description" : "",
-        "picture" : "",
-        "youtube-link": ""
+        "name" : "Tari piring",
+        "origin" : "Minangkabau",
+        "description" : "Tari piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring.",
+        "picture" : "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tari_Piring_di_Pesisir_Selatan.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=1O_OYwnV6iw"
     },
+    {
+        "name" : "Reog",
+        "origin" : "Ponorogo",
+        "description" : "Reog adalah tarian tradisional dalam arena terbuka yang berfungsi sebagai hiburan rakyat, mengandung unsur magis, penari utama adalah orang berkepala singa dengan hiasan bulu merak, ditambah beberapa penari bertopeng dan berkuda lumping.",
+        "picture" : "https://cdn1-production-images-kly.akamaized.net/vcEUcYFbS0qkDxeauDy7KIIKqAM=/640x480/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1331586/original/042314600_1472472138-Reog_Ponorogo_di_Filiphina.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=u8mr-KMGtvE"
+    }
+]
+
+[
+    {
+        "name" : "Tari Bedhaya Ketawang",
+        "origin" : "Jawa Tengah",
+        "description" : "Bedhaya Ketawang yang mengandung arti di setiap masing-masing kata. ‘bedhaya’ yang artinya penari wanita dan ‘ketawang’ artinya langit. Bila disatukan Bedhaya Ketawang ini mengandung arti penari wanita dari istana langit.",
+        "picture" : "http://www.ragamseni.com/wp-content/uploads/2016/08/Tari-Bedhaya-Ketawang-300x200.jpg",
+        "youtube-link": "https://youtu.be/zlpoG5urKa4"
+    },
+    {
+        "name" : "Tari Gambyong",
+        "origin" : "Surakarta",
+        "description" : "arian ini hanya sebuah tarian rakyat dan diadakan ketika memasuki musim panen padi. Sekarang, tarian tersebut diadakan saat acara sakral dan sebagai penghormatan pada tamu.",
+        "picture" : "http://www.ragamseni.com/wp-content/uploads/2016/08/Tari-Gambyong-300x225.jpg",
+        "youtube-link": "https://youtu.be/VbFNTQHUMf8"
+    }
 ]
