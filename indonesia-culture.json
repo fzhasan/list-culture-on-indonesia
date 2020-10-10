@@ -1,5 +1,19 @@
 [
     {
+        "name": "Tari Jaipong",
+        "origin": "Jawa Barat",
+        "description": "Jaipongan terlahir melalui proses kreatif dari tangan dingin H. Suanda sekitar tahun 1976 di Karawang, jaipongan merupakan garapan yang menggabungkan beberapa elemen seni tradisi Karawang seperti pencak silat, wayang golek, topeng banjet, ketuk tilu dan lain-lain.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jaipongan_Langit_Biru_03.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=U3At8IWbu9I"
+    },
+    {
+        "name": "Tari Topeng",
+        "origin": "Jawa Barat",
+        "description": "Tari Topeng adalah tarian yang penarinya mengenakan topeng. Topeng telah ada di dunia sejak zaman pra-sejarah. Secara luas digunakan dalam tari yang menjadi bagian dari upacara adat atau penceritaan kembali cerita-cerita kuno dari para leluhur.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bali-Danse_0710a.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=CoG82D9JVbI"
+    },
+    {
         "name": "rencong",
         "origin": "Aceh",
         "description": "Rencong (Aksara Jawoë : رنچوڠ) atau yang dalam Bahasa Aceh yang ditulis dengan huruf latin dibaca 'Rintjong' adalah senjata khas Suku Aceh. ",
@@ -41,4 +55,4 @@
         "picture": "https://assets-a1.kompasiana.com/items/album/2016/11/23/mg-6514-5834d3ca907e61540786da2e.jpg",
         "youtube-link": "https://www.youtube.com/watch?v=yb_005XqxoM"
     }
-]
+]   
