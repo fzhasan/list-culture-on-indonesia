@@ -1,9 +1,16 @@
 [
     {
-        "name" : "",
-        "origin" : "",
-        "description" : "",
-        "picture" : "",
-        "youtube-link": ""
+        "name" : "Jaipongan",
+        "origin" : "Indonesia",
+        "description" : "Jaipongan adalah sebuah jenis tari pergaulan tradisional masyarakat Sunda, karawang, Jawa Barat, yang sangat populer di Indonesia.",
+        "picture" : "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/fixindonesia/2020/03/Untitled-111.png",
+        "youtube-link": "https://www.youtube.com/watch?v=rsmafqn5ZdQ"
     },
+    {
+        "name" : "Tari Saman",
+        "origin" : "Aceh, Indonesia",
+        "description" : "sebuah tarian Suku Gayo yang biasa ditampilkan untuk merayakan peristiwa-peristiwa penting dalam adat. Syair dalam tarian saman mempergunakan Bahasa Gayo. Selain itu biasanya tarian ini juga ditampilkan untuk merayakan kelahiran Nabi Muhammad SAW.",
+        "picture" : "https://reportersatu.com/wp-content/uploads/2020/08/Menengok-Tari-Saman-tarain-Khas-Sumatera-Utara-1000x600.jpg",
+        "youtube-link" : "https://www.youtube.com/watch?v=5m0nYPkAW_I",
+    }
 ]
