@@ -2,7 +2,7 @@
 
 ![alt](https://image.freepik.com/free-vector/indonesia-culture-illustration_3264-79.jpg)
 
-Selamat datang di quest **#HacktoberFest2020** ke-dua, pada quest ini kalian diminta untuk bantu mengisi budaya/culture apa saja yang ada di Indonesia. Masing masing peserta paling minimal menambahkan 2 budaya/culture yang ada di Indonesia ke file bernama **[Indonesia Culture.json](https://github.com/tiuinws/list-culture-on-indonesia/blob/master/indonesia-culture.json)**.
+Selamat datang di quest **#HacktoberFest2020** ke-tiga, pada quest ini kalian diminta untuk bantu mengisi budaya/culture apa saja yang ada di Indonesia. Masing masing peserta paling minimal menambahkan 2 budaya/culture yang ada di Indonesia ke file bernama **[Indonesia Culture.json](https://github.com/tiuinws/list-culture-on-indonesia/blob/master/indonesia-culture.json)**.
 
 ## Step procedure :
 1. Pertama kalian harus melakukan fork repository ini ke akun github kalian
