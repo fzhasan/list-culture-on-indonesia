@@ -285,5 +285,19 @@
         "description": "Barongan atau Barong, adalah figur dalam mitologi Bali dan Jawa. Penampilannya digambarkan dalam berbagai bentuk samaran seperti binatang, dan yang paling terkenal dan dipuja dari semuanya adalah figur makhluk berkaki empat atau berkaki dua dengan kepala singa. ",
         "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fshopee.co.id%2FBarongan-devil-i.17552261.2648928868&psig=AOvVaw3wwhx5_Yz6ozRNvT0mp8Mz&ust=1602516776220000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCQ063urOwCFQAAAAAdAAAAABAD",
         "youtube-link": "https://www.youtube.com/watch?v=309Jl8uaf88"
+    },
+    {
+        "name": "Wayang Kulit",
+        "origin": "Jawa",
+        "description": "Wayang kulit adalah seni tradisional Indonesia yang terutama berkembang di Jawa. Wayang berasal dari kata Ma Hyang yang artinya menuju kepada roh spiritual, dewa, atau Tuhan Yang Maha Esa.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wayang_Performance.jpg/800px-Wayang_Performance.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=cRA6kYaYu4k"
+    },
+    {
+        "name": "Ngaben",
+        "origin": "Bali",
+        "description": "Ngaben merupakan salah satu upacara yang dilakukan oleh Umat Hindu di Bali yang tergolong upacara Pitra Yadnya (upacara yang ditunjukkan kepada Leluhur)",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ubud_Cremation_Procession_1.jpg/750px-Ubud_Cremation_Procession_1.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=Rc6E3d6gMBE"
     }
 ]
