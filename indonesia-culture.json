@@ -88,7 +88,7 @@
         "origin": "Aceh, Indonesia",
         "description": "sebuah tarian Suku Gayo yang biasa ditampilkan untuk merayakan peristiwa-peristiwa penting dalam adat. Syair dalam tarian saman mempergunakan Bahasa Gayo. Selain itu biasanya tarian ini juga ditampilkan untuk merayakan kelahiran Nabi Muhammad SAW.",
         "picture": "https://reportersatu.com/wp-content/uploads/2020/08/Menengok-Tari-Saman-tarain-Khas-Sumatera-Utara-1000x600.jpg",
-        "youtube-link": "https://www.youtube.com/watch?v=5m0nYPkAW_I",
+        "youtube-link": "https://www.youtube.com/watch?v=5m0nYPkAW_I"
     },
     {
         "name": "Tari Tortor",
@@ -257,6 +257,47 @@
         "description": "Karawitan adalah seni gamelan dan seni suara yang bertangga nada slendro dan pelog. Kesenian ini terkenal di Pulau Jawa dan Bali. Istilah karawitan berasal dari bahasa Jawa yaitu kata \"rawit\" yang berarti halus dan lembut. Jadi karawitan berarti kelembutan perasaan yang terkandung dalam seni gamelan.",
         "picture": "https://2.bp.blogspot.com/-YWy9p1rTjTw/Vau3ERB1zuI/AAAAAAAABU4/grIpQHy22xY/w1200-h630-p-k-no-nu/karawitan.jpg",
         "youtube-link": "https://youtu.be/p5pgPolmuKo"
+    },
+    {
+        "name": "Tari Bedhaya Ketawang",
+        "origin": "Jawa Tengah",
+        "description": "Tari Bedaya Ketawang (Bahasa Jawa: Bedhaya Ketawang, ꦨꦼꦝꦪꦑꦼꦠꦮꦁ) adalah sebuah tarian kebesaran yang hanya dipertunjukkan ketika penobatan serta Tingalandalem Jumenengan Sunan Surakarta (upacara peringatan kenaikan tahta raja). Nama Bedhaya Ketawang sendiri berasal dari kata bedhaya yang berarti penari wanita di istana. Sedangkan ketawang berarti langit, identik dengan sesuatu yang tinggi, keluhuran, dan kemuliaan.[1] Tari Bedhaya Ketawang menjadi tarian sakral yang suci karena menyangkut Ketuhanan, di mana segala sesuatu tidak akan terjadi tanpa kehendak Tuhan Yang Maha Esa",
+        "picture": "https://sekolahnesia.com/wp-content/uploads/2020/02/tari-bedhaya-ketawang-680x350.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=Ah6tIWDnMKs"
+    },
+    {
+        "name": "Gamelan Jawa",
+        "origin": "Jawa",
+        "description": "Gamelan Jawa adalah ensembel musik yang biasanya menonjolkan metalofon, gambang, gendang, dan gong. Musik yang tercipta pada Gamelan Jawa berasal dari paduan bunyi gong, kenong dan alat musik Jawa lainnya. Irama musik umumnya lembut dan mencerminkan keselarasan hidup, sebagaimana prinsip hidup yang dianut pada umumnya oleh masyarakat Jawa.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Traditional_indonesian_instruments02.jpg/375px-Traditional_indonesian_instruments02.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=BD39g1W_TZ0"
+    },
+    {
+        "name": "Keris",
+        "origin": "Jawa Tengah",
+        "description": "Keris adalah senjata tikam golongan belati (berujung runcing dan tajam pada kedua sisinya) dengan banyak fungsi budaya yang dikenal di kawasan Nusantara bagian barat dan tengah. Bentuknya khas dan mudah dibedakan dari senjata tajam lainnya karena tidak simetris di bagian pangkal yang melebar, sering kali bilahnya berkelok-kelok, dan banyak di antaranya memiliki pamor (damascene), yaitu terlihat serat-serat lapisan logam cerah pada helai bilah. ",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/b/be/Kris_and_scabbard.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=ML-kx09IeGc"
+    },
+    {
+        "name": "Tedhak Siten (Tedak Siten)",
+        "origin": "Jawa Tengah",
+        "description": "Tedhak siten adalah rangkaian prosesi adat tradisional dari tanah Jawa yang diselenggarakan pada saat pertama kali seorang anak belajar menginjakkan kaki ke tanah. Tedhak berarti menginjak, dan Siten artinya tanah. Biasanya dilakukan saat anak berusia sekitar tujuh atau delapan bulan. Tradisi ini dilaksanakan sebagai penghormatan kepada bumi tempat anak belajar menginjakkan kaki. Secara keseluruhan, upacara ini bermakna untuk mengajarkan anak tentang konsep kemandirian, tanggung jawab, tangguh dalam menghadapi persoalan, serta bersifat dermawan terhadap sesamanya ",
+        "picture": "https://cdn-image.hipwee.com/wp-content/uploads/2019/11/hipwee-Screen-Shot-2019-11-01-at-1.58.06-PM-640x424.png",
+        "youtube-link": "https://www.youtube.com/watch?v=L0uhwDdSjw8"
+    },
+    {
+        "name": "Kuda lumping",
+        "origin": "Jawa",
+        "description": "Kuda lumping juga disebut jaran kepang atau jathilan adalah tarian tradisional Jawa yang menampilkan sekelompok prajurit tengah menunggang kuda. Tarian ini berasal dari Ponorogo.",
+        "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.wikipedia.org%2Fwiki%2FKuda_lumping&psig=AOvVaw014iTJtSrYD_zRoHuEcV4O&ust=1602516604809000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDC5dztrOwCFQAAAAAdAAAAABAD",
+        "youtube-link": "https://youtu.be/oxi65vsnMiw"
+    },
+    {
+        "name": "Barongan",
+        "origin": "Jawa dan Bali",
+        "description": "Barongan atau Barong, adalah figur dalam mitologi Bali dan Jawa. Penampilannya digambarkan dalam berbagai bentuk samaran seperti binatang, dan yang paling terkenal dan dipuja dari semuanya adalah figur makhluk berkaki empat atau berkaki dua dengan kepala singa. ",
+        "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fshopee.co.id%2FBarongan-devil-i.17552261.2648928868&psig=AOvVaw3wwhx5_Yz6ozRNvT0mp8Mz&ust=1602516776220000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCQ063urOwCFQAAAAAdAAAAABAD",
+        "youtube-link": "https://www.youtube.com/watch?v=309Jl8uaf88"
     }
-
 ]
