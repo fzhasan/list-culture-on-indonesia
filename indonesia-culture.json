@@ -287,6 +287,20 @@
         "youtube-link": "https://www.youtube.com/watch?v=L0uhwDdSjw8"
     },
     {
+        "name": "Mandau",
+        "origin": "Kalimantan Timur",
+        "description": "Mandau adalah senjata khas Suku Dayak",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/COLLECTIE_TROPENMUSEUM_Zwaard_met_gevest_van_been_schede_en_mesje_TMnr_391-120.jpg/350px-COLLECTIE_TROPENMUSEUM_Zwaard_met_gevest_van_been_schede_en_mesje_TMnr_391-120.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=UqU0_JQ00Yg"
+    },
+    {
+        "name": "Belian",
+        "origin": "Kalimantan Timur",
+        "description": "Belian adalah salah satu upacara adat oleh Suku Dayak Benuaq, Suku Dayak Tunjung, maupun Dayak Paser. Belian biasanya bertujuan untuk pengobatan",
+        "picture": "https://cdn-2.tstatic.net/kaltim/foto/bank/images/festival-seni-belian.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=fjD3B1-jGCI"
+    },
+    {
         "name": "Kuda lumping",
         "origin": "Jawa",
         "description": "Kuda lumping juga disebut jaran kepang atau jathilan adalah tarian tradisional Jawa yang menampilkan sekelompok prajurit tengah menunggang kuda. Tarian ini berasal dari Ponorogo.",
