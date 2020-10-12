@@ -88,7 +88,7 @@
         "origin": "Aceh, Indonesia",
         "description": "sebuah tarian Suku Gayo yang biasa ditampilkan untuk merayakan peristiwa-peristiwa penting dalam adat. Syair dalam tarian saman mempergunakan Bahasa Gayo. Selain itu biasanya tarian ini juga ditampilkan untuk merayakan kelahiran Nabi Muhammad SAW.",
         "picture": "https://reportersatu.com/wp-content/uploads/2020/08/Menengok-Tari-Saman-tarain-Khas-Sumatera-Utara-1000x600.jpg",
-        "youtube-link": "https://www.youtube.com/watch?v=5m0nYPkAW_I",
+        "youtube-link": "https://www.youtube.com/watch?v=5m0nYPkAW_I"
     },
     {
         "name": "Tari Tortor",
@@ -245,6 +245,20 @@
         "youtube-link": "https://www.youtube.com/watch?v=DbKAkFLutIg"
     },
     {
+        "name": "Sekaten",
+        "origin": "Yogyakarta",
+        "description": "Festival Sekaten adalah rangkaian kegiatan tahunan sebagai peringatan Maulid Nabi Muhammad yang diadakan oleh keraton Surakarta dan Yogyakarta. Rangkaian perayaan secara resmi berlangsung dari tanggal 5 dan berakhir pada tanggal 12 Mulud penanggalan Jawa",
+        "picture": "https://www.kotajogja.com/wp-content/uploads/2016/04/grebek-sekaten-9-1-1280x720.jpg",
+        "youtube-link": "https://youtu.be/WUeZ1oclWNc"
+    },
+    {
+        "name": "Karawitan",
+        "origin": "Jawa",
+        "description": "Karawitan adalah seni gamelan dan seni suara yang bertangga nada slendro dan pelog. Kesenian ini terkenal di Pulau Jawa dan Bali. Istilah karawitan berasal dari bahasa Jawa yaitu kata \"rawit\" yang berarti halus dan lembut. Jadi karawitan berarti kelembutan perasaan yang terkandung dalam seni gamelan.",
+        "picture": "https://2.bp.blogspot.com/-YWy9p1rTjTw/Vau3ERB1zuI/AAAAAAAABU4/grIpQHy22xY/w1200-h630-p-k-no-nu/karawitan.jpg",
+        "youtube-link": "https://youtu.be/p5pgPolmuKo"
+    },
+    {
         "name": "Tari Bedhaya Ketawang",
         "origin": "Jawa Tengah",
         "description": "Tari Bedaya Ketawang (Bahasa Jawa: Bedhaya Ketawang, ꦨꦼꦝꦪꦑꦼꦠꦮꦁ) adalah sebuah tarian kebesaran yang hanya dipertunjukkan ketika penobatan serta Tingalandalem Jumenengan Sunan Surakarta (upacara peringatan kenaikan tahta raja). Nama Bedhaya Ketawang sendiri berasal dari kata bedhaya yang berarti penari wanita di istana. Sedangkan ketawang berarti langit, identik dengan sesuatu yang tinggi, keluhuran, dan kemuliaan.[1] Tari Bedhaya Ketawang menjadi tarian sakral yang suci karena menyangkut Ketuhanan, di mana segala sesuatu tidak akan terjadi tanpa kehendak Tuhan Yang Maha Esa",
@@ -285,5 +299,47 @@
         "description": "Belian adalah salah satu upacara adat oleh Suku Dayak Benuaq, Suku Dayak Tunjung, maupun Dayak Paser. Belian biasanya bertujuan untuk pengobatan",
         "picture": "https://cdn-2.tstatic.net/kaltim/foto/bank/images/festival-seni-belian.jpg",
         "youtube-link": "https://www.youtube.com/watch?v=fjD3B1-jGCI"
+    },
+    {
+        "name": "Kuda lumping",
+        "origin": "Jawa",
+        "description": "Kuda lumping juga disebut jaran kepang atau jathilan adalah tarian tradisional Jawa yang menampilkan sekelompok prajurit tengah menunggang kuda. Tarian ini berasal dari Ponorogo.",
+        "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.wikipedia.org%2Fwiki%2FKuda_lumping&psig=AOvVaw014iTJtSrYD_zRoHuEcV4O&ust=1602516604809000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDC5dztrOwCFQAAAAAdAAAAABAD",
+        "youtube-link": "https://youtu.be/oxi65vsnMiw"
+    },
+    {
+        "name": "Barongan",
+        "origin": "Jawa dan Bali",
+        "description": "Barongan atau Barong, adalah figur dalam mitologi Bali dan Jawa. Penampilannya digambarkan dalam berbagai bentuk samaran seperti binatang, dan yang paling terkenal dan dipuja dari semuanya adalah figur makhluk berkaki empat atau berkaki dua dengan kepala singa. ",
+        "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fshopee.co.id%2FBarongan-devil-i.17552261.2648928868&psig=AOvVaw3wwhx5_Yz6ozRNvT0mp8Mz&ust=1602516776220000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCQ063urOwCFQAAAAAdAAAAABAD",
+        "youtube-link": "https://www.youtube.com/watch?v=309Jl8uaf88"
+    },
+    {
+        "name": "Wayang Kulit",
+        "origin": "Jawa",
+        "description": "Wayang kulit adalah seni tradisional Indonesia yang terutama berkembang di Jawa. Wayang berasal dari kata Ma Hyang yang artinya menuju kepada roh spiritual, dewa, atau Tuhan Yang Maha Esa.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wayang_Performance.jpg/800px-Wayang_Performance.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=cRA6kYaYu4k"
+    },
+    {
+        "name": "Ngaben",
+        "origin": "Bali",
+        "description": "Ngaben merupakan salah satu upacara yang dilakukan oleh Umat Hindu di Bali yang tergolong upacara Pitra Yadnya (upacara yang ditunjukkan kepada Leluhur)",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ubud_Cremation_Procession_1.jpg/750px-Ubud_Cremation_Procession_1.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=Rc6E3d6gMBE"
+    },
+    {
+        "name": "Tari Kretek",
+        "origin": "Kudus",
+        "description": "Tari kretek merupakan sebuah tari asli Kudus yang menceritakan para buruh rokok yang sedang bekerja membuat rokok, mulai dari pemilihan tembakau hingga rokok siap dipasarkan.  ",
+        "picture": "https://i0.wp.com/komunitaskretek.or.id/wp-content/uploads/2016/12/tari-kretek.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=qBXa8mA7miI"
+    },
+    {
+        "name": "Fahombo Nias",
+        "origin": "Nias",
+        "description": "Fahombo, Hombo Batu atau dalam bahasa Indonesia Lompat Batu adalah olahraga tradisional Suku Nias. Olahraga yang sebelumnya merupakan ritual pendewasaan  ",
+        "picture": "https://2.bp.blogspot.com/-E56Fhua-WkI/UgFoVMDm-FI/AAAAAAAABJg/2tMHkNT8lEU/s1600/lompat+batu+nias.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=_EeOhbADyrY"
     }
 ]
