@@ -369,5 +369,19 @@
         "description": "Wayang golek merupakan salah satu dari ragam kesenian wayang, yang berasal dari masyarakat Sunda di Jawa Barat. Pertunjukan seni wayang golek merupakan seni pertunjukan teater rakyat yang banyak dipagelarkan",
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJt1ToR6vfvUitM5emuymu6QKtlKrFH-j0ug&usqp=CAU",
         "youtube-link": "https://m.youtube.com/watch?v=4xC8hDoLkYI"
+    },
+    { 
+        "name": "Degung",
+        "origin": "Jawa Barat",
+        "description": "Degung adalah alat tradisional Bandung dan sudah terkenal di penjuru Indonesia", 
+        "picture": "https://s2.bukalapak.com/img/2661621721/large/gamelan_degung_.jpg", 
+        "youtube-link": "https://www.youtube.com/watch?v=pRtyKX2fZ68" 
+    }, 
+    { 
+        "name": "Kacapi Suling", 
+        "origin": "Jawa Barat", 
+        "description": "Kacapi Suling adalah suatu kotak resonansi yang bagian bawahnya diberi lubang resonansi untuk memungkinkan suara keluar. Sisi-sisi jenis kacapi ini dibentuk sedemikian rupa sehingga menyerupai perahu. Pada masa lalu, kacapi ini dibuat langsung dari bongkahan kayu dengan memahatnya.", 
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Kacapi-tuners.jpg", 
+        "youtube-link": "https://www.youtube.com/watch?v=Zs3mI1qKkvY" 
     }
 ]
