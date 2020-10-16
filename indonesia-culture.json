@@ -390,5 +390,19 @@
         "description": "Tari tanggai adalah sebuah tarian yang disajikan untuk menyambut tamu yang telah memenuhi undangan.",
         "picture": "https://seringjalan.com/wp-content/uploads/2020/06/tari-tanggai-kelambitcom.jpg",
         "youtube-link": "https://www.youtube.com/watch?v=VpnNXJe-TIQ"
+    },
+    {
+        "name": "Karapan Sapi",
+        "origin": "Madura, Jawa Timur",
+        "description": "Karapan sapi merupakan istilah untuk menyebut perlombaan pacuan sapi yang berasal dari Pulau Madura, Jawa Timur.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Madura_bull_racing_1999-cropped.jpeg/330px-Madura_bull_racing_1999-cropped.jpeg",
+        "youtube-link": "https://www.youtube.com/watch?v=upg4d3GlIj8"
+    },
+    {
+        "name": "Tari Muang Sangkal",
+        "origin": "Madura, Jawa Timur",
+        "description": "Tari Moang Sangkal merupakan salah satu icon seni tari di Madura, secara harfiah kata moang sangkal terdiri dari dua kata Mowang berarti membuang, dan kata Sangkal berarti sukerta yang artinya gelap.",
+        "picture": "https://seringjalan.com/wp-content/uploads/2020/04/Tari-Muang-Sangkal-Madura-1200x675-1024x576.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=ETl0mlcrnjA"
     }
 ]
