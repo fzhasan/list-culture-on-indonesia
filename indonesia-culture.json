@@ -370,19 +370,19 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJt1ToR6vfvUitM5emuymu6QKtlKrFH-j0ug&usqp=CAU",
         "youtube-link": "https://m.youtube.com/watch?v=4xC8hDoLkYI"
     },
-    { 
+    {
         "name": "Degung",
         "origin": "Jawa Barat",
-        "description": "Degung adalah alat tradisional Bandung dan sudah terkenal di penjuru Indonesia", 
-        "picture": "https://s2.bukalapak.com/img/2661621721/large/gamelan_degung_.jpg", 
-        "youtube-link": "https://www.youtube.com/watch?v=pRtyKX2fZ68" 
-    }, 
-    { 
-        "name": "Kacapi Suling", 
-        "origin": "Jawa Barat", 
-        "description": "Kacapi Suling adalah suatu kotak resonansi yang bagian bawahnya diberi lubang resonansi untuk memungkinkan suara keluar. Sisi-sisi jenis kacapi ini dibentuk sedemikian rupa sehingga menyerupai perahu. Pada masa lalu, kacapi ini dibuat langsung dari bongkahan kayu dengan memahatnya.", 
-        "picture": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Kacapi-tuners.jpg", 
-        "youtube-link": "https://www.youtube.com/watch?v=Zs3mI1qKkvY" 
+        "description": "Degung adalah alat tradisional Bandung dan sudah terkenal di penjuru Indonesia",
+        "picture": "https://s2.bukalapak.com/img/2661621721/large/gamelan_degung_.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=pRtyKX2fZ68"
+    },
+    {
+        "name": "Kacapi Suling",
+        "origin": "Jawa Barat",
+        "description": "Kacapi Suling adalah suatu kotak resonansi yang bagian bawahnya diberi lubang resonansi untuk memungkinkan suara keluar. Sisi-sisi jenis kacapi ini dibentuk sedemikian rupa sehingga menyerupai perahu. Pada masa lalu, kacapi ini dibuat langsung dari bongkahan kayu dengan memahatnya.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Kacapi-tuners.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=Zs3mI1qKkvY"
     },
     {
         "name": "Tari Tanggai",
@@ -418,5 +418,12 @@
         "description": "Teater Dulmuluk adalah teater tradisional Sumatera Selatan yang lahir di Kota Palembang. Awal mula terbentuknya teater ini adalah berupa pembacaan syair oleh Wan Bakar yang membacakan tentang syair Abdul Muluk disekitar rumahnya di Tangga Takat 16 Ulu pada tahun 1854.",
         "picture": "https://lemabang.files.wordpress.com/2012/12/dulmuluk.jpg",
         "youtube-link": "https://www.youtube.com/watch?v=DECKZgfaDOI"
+    },
+    {
+        "name": "Tari Serampang Dua Belas",
+        "origin": "Serdangbedagai, Sumatera Utara",
+        "description": "Tarian ini dibawakan berpasangan antara pria dan wanita yang mendeskripsikan proses kehidupan antara sepasang kekasih mulai dari perkenalan, jatuh cinta sampai menikah. Disebut Tari Serampang Dua Belas karena ada dua belas ragam gerakan dalam tarian ini yang dilakukan dengan cepat. Tarian ini diiringi musik tradisional Melayu seperti kecapi dan rebana.",
+        "picture": "https://obs.line-scdn.net/0hyFy8IFALJmlEQQmV_UNZPn0XJQZ3LTVqIHd3dxQveF1heTJsfSNtDzNIfwlsdmE3LSRhD2YEeV48dzRsfSM/w1200",
+        "yotube-link": "https://www.youtube.com/watch?v=7BzMCMSL10Y"
     }
 ]
