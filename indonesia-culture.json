@@ -1,4 +1,5 @@
-[{
+[
+    {
         "name": "tari saman",
         "origin": "aceh",
         "description": "tarian ini ditampilkan untuk merayakan kelahiran nabi muhammad SAW.",
@@ -403,6 +404,20 @@
         "description": "Tari Moang Sangkal merupakan salah satu icon seni tari di Madura, secara harfiah kata moang sangkal terdiri dari dua kata Mowang berarti membuang, dan kata Sangkal berarti sukerta yang artinya gelap.",
         "picture": "https://seringjalan.com/wp-content/uploads/2020/04/Tari-Muang-Sangkal-Madura-1200x675-1024x576.jpg",
         "youtube-link": "https://www.youtube.com/watch?v=ETl0mlcrnjA"
+    },
+    {
+        "name": "Tari Gending Sriwijaya",
+        "origin": "Palembang, Sumatera Selatan",
+        "description": "Tari Gending Sriwijaya merupakan seni tari dari Sumatera Selatan yang digelarkan 9 penari muda dan cantik-cantik yang berbusana Adat Aesan Gede, Selendang Mantri, paksangkong, Dodot dan Tanggai. Mereka merupakan penari inti yang dikawal dua penari lainnya membawa payung dan tombak. Sedang di belakang sekali adalah penyanyi Gending Sriwijaya.",
+        "picture": "https://mmc.tirto.id/image/2017/03/25/1__Tari_Gending_Sriwijaya_merupakan_tarian_kolosal_peninggalan_Kerajaan_Sriwijaya_ratio-4x3.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=upg4d3GlIj8"
+    },
+    {
+        "name": "Teater Dulmuluk",
+        "origin": "Palembang, Sumatera Selatan",
+        "description": "Teater Dulmuluk adalah teater tradisional Sumatera Selatan yang lahir di Kota Palembang. Awal mula terbentuknya teater ini adalah berupa pembacaan syair oleh Wan Bakar yang membacakan tentang syair Abdul Muluk disekitar rumahnya di Tangga Takat 16 Ulu pada tahun 1854.",
+        "picture": "https://lemabang.files.wordpress.com/2012/12/dulmuluk.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=DECKZgfaDOI"
     },
     {
         "name": "Tari Serampang Dua Belas",
